@@ -43,3 +43,32 @@ IphoneDio/
 - │   │   ├── NavegadorInternet.java         ### Interface para funções de navegador
 - │   │   ├── Playlist.java                  ### Gerencia a lista de músicas
 - │   │   └── ReprodutorMusical.java         ### Interface para funções musicais
+
+## 🚀 Como Executar o Projeto
+Para testar o iPhoneDio em sua máquina, siga os passos abaixo:
+
+#### Pré-requisitos
+- Certifique-se de ter o Java Development Kit (JDK), usei 17.
+- Recomenda-se usar uma IDE, usei Eclipse.
+
+#### Passos:
+1) Clone o Repositório:
+Abra seu terminal (Git Bash, PowerShell, CMD) e clone este repositório:
+- git clone https://github.com/SeuUsuario/IphoneDio.git
+
+2) Navegue até o Diretório do Projeto:
+- cd IphoneDio
+  
+3) Importe para o Eclipse (ou sua IDE):
+- Abra o Eclipse.
+- Vá em File > Import... > General > Existing Projects into Workspace.
+- Selecione o diretório IphoneDio que você clonou.
+
+4) Execute o Projeto:
+- No "Package Explorer" do Eclipse, localize a classe Iphone.java.
+- Clique com o botão direito sobre Iphone.java e selecione Run As > Java Application.
+- 
+O programa será executado diretamente no console da sua IDE, apresentando os menus interativos.
+
+## 💡 Contribuições
+Sinta-se à vontade para explorar o código, propor melhorias ou adicionar novas funcionalidades! Pull requests são bem-vindos.
