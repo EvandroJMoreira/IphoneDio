@@ -54,7 +54,7 @@ Para testar o iPhoneDio em sua máquina, siga os passos abaixo:
 #### Passos:
 1) Clone o Repositório:
 Abra seu terminal (Git Bash, PowerShell, CMD) e clone este repositório:
-- git clone https://github.com/SeuUsuario/IphoneDio.git
+- git clone https://github.com/EvandroJMoreira/IphoneDio.git
 
 2) Navegue até o Diretório do Projeto:
 - cd IphoneDio
